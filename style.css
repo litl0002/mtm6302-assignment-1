@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    padding: 0px 20px 0px 20px;
+}
+
+h1{
+    background-color: lightcoral;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+
+#emojis{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#emojis div{
+    padding: 10px;
+    margin: 10px;
+    background-color: lightblue;
+    border-radius: 13px;
+}
+
+div{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+}
